@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain_community
+langchain_experimental
+cohere
+re
